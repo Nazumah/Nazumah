@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c" />
+    <img src="https://skillicons.dev/icons?i=c,c++" />
   </a>
 </p>
