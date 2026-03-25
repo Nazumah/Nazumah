@@ -1,4 +1,4 @@
-## Hello, YSHS I'm Student Developer, From South Korea 🛠️
+## Hello, I'm YSHS Student Developer, From South Korea 🛠️
 
 ###
 
