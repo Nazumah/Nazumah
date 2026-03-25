@@ -1,4 +1,4 @@
-## Hello, I'm Student Developer From South Korea 🛠️
+## Hello, I'm Student Developer, From South Korea 🛠️
 
 ###
 
